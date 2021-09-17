@@ -1,3 +1,4 @@
 vJoyInterface.dll
 *.pyc
 *.swp
+*DS_Store
