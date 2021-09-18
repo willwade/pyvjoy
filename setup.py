@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name='pyvjoy',
-    version='1.0.1',
+    version='1.0.2',
     description='Python bindings for vJoy',
     url='https://github.com/tidzo/pyvjoy',
     author='Will Wade',
